@@ -1,0 +1,21 @@
+header{
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+}
+h1 {
+    color: #FFFFFF;
+    text-align:center;
+    text-shadow: #474747 3px 5px 2px;
+    width: 100%;
+}
+#div_grafica{
+    width: 45%;
+}
+#myChart {
+    background-color: rgba(255, 255, 255, 0.05);
+}
+main {
+    display: flex;
+    justify-content: center;
+}
